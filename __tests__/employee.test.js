@@ -17,7 +17,7 @@ describe("Employee Class", () => {
         
         it("should retrive the employee's ID", () => {
             const employee = new Employee('Nidhi', 50, 'username1@gmail.com');
-            expect(employee.getID()).toEqual(expect.any(Number));
+            expect(employee.getId()).toEqual(expect.any(Number));
         });
         
         

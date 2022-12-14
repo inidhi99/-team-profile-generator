@@ -30,3 +30,9 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+
+## Mockup 
+![Alt text](assets/Screen%20Shot%202022-12-14%20at%203.12.48%20PM.png)
+
+## Test 
+![Alt text](assets/Screen%20Shot%202022-12-14%20at%203.14.15%20PM.png)
